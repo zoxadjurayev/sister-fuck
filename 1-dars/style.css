@@ -1,0 +1,15 @@
+body
+
+font-family:
+
+'Montserrat', sansserif;
+
+background: #FFF;
+position: relative;
+overflow: hidden;
+font-size: 100%;
+text-align: center;
+
+.criterion
+font-size: 1.6rem;
+position: absolute;
